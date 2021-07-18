@@ -1,0 +1,257 @@
+ASCII # appears # times with symbol # --> encode bits string
+ASCII 0 appears 0 times with symbol: not printable --> 10011001000011101101110011
+ASCII 1 appears 0 times with symbol: not printable --> 10011001000011101101110010
+ASCII 2 appears 0 times with symbol: not printable --> 10011001000011101101110001
+ASCII 3 appears 0 times with symbol: not printable --> 10011001000011101101110000
+ASCII 4 appears 0 times with symbol: not printable --> 10011001000011101101101111
+ASCII 5 appears 0 times with symbol: not printable --> 10011001000011101101101110
+ASCII 6 appears 0 times with symbol: not printable --> 10011001000011101101101101
+ASCII 7 appears 0 times with symbol: not printable --> 10011001000011101101101100
+ASCII 8 appears 0 times with symbol: not printable --> 10011001000011101101101011
+ASCII 9 appears 0 times with symbol: not printable --> 10011001000011101101101010
+ASCII 10 appears 14754 times with symbol: not printable --> 10010
+ASCII 11 appears 0 times with symbol: not printable --> 10011001000011101101101001
+ASCII 12 appears 0 times with symbol: not printable --> 10011001000011101101101000
+ASCII 13 appears 14754 times with symbol: not printable --> 10001
+ASCII 14 appears 0 times with symbol: not printable --> 10011001000011101101100111
+ASCII 15 appears 0 times with symbol: not printable --> 10011001000011101101100110
+ASCII 16 appears 0 times with symbol: not printable --> 10011001000011101101100101
+ASCII 17 appears 0 times with symbol: not printable --> 10011001000011101101100100
+ASCII 18 appears 0 times with symbol: not printable --> 10011001000011101101100011
+ASCII 19 appears 0 times with symbol: not printable --> 10011001000011101101100010
+ASCII 20 appears 0 times with symbol: not printable --> 10011001000011101101100001
+ASCII 21 appears 0 times with symbol: not printable --> 10011001000011101101100000
+ASCII 22 appears 0 times with symbol: not printable --> 10011001000011101101011111
+ASCII 23 appears 0 times with symbol: not printable --> 10011001000011101101011110
+ASCII 24 appears 0 times with symbol: not printable --> 10011001000011101101011101
+ASCII 25 appears 0 times with symbol: not printable --> 10011001000011101101011100
+ASCII 26 appears 0 times with symbol: not printable --> 10011001000011101101011011
+ASCII 27 appears 0 times with symbol: not printable --> 10011001000011101101011010
+ASCII 28 appears 0 times with symbol: not printable --> 10011001000011101101011001
+ASCII 29 appears 0 times with symbol: not printable --> 10011001000011101101011000
+ASCII 30 appears 0 times with symbol: not printable --> 10011001000011101101010111
+ASCII 31 appears 0 times with symbol: not printable --> 10011001000011101101010110
+ASCII 32 appears 92771 times with symbol:   --> 000
+ASCII 33 appears 234 times with symbol: ! --> 10011001001
+ASCII 34 appears 2231 times with symbol: " --> 01101010
+ASCII 35 appears 1 times with symbol: # --> 100110010000111010
+ASCII 36 appears 0 times with symbol: $ --> 10011001000011101101010101
+ASCII 37 appears 0 times with symbol: % --> 10011001000011101101010100
+ASCII 38 appears 0 times with symbol: & --> 10011001000011101101010011
+ASCII 39 appears 7711 times with symbol: ' --> 100001
+ASCII 40 appears 3 times with symbol: ( --> 10011001000011000
+ASCII 41 appears 3 times with symbol: ) --> 10011001000001101
+ASCII 42 appears 0 times with symbol: * --> 10011001000011101101010010
+ASCII 43 appears 0 times with symbol: + --> 10011001000011101101010001
+ASCII 44 appears 8476 times with symbol: , --> 011011
+ASCII 45 appears 19 times with symbol: - --> 100110010000010
+ASCII 46 appears 3269 times with symbol: . --> 1010111
+ASCII 47 appears 0 times with symbol: / --> 10011001000011101101010000
+ASCII 48 appears 0 times with symbol: 0 --> 10011001000011101101001111
+ASCII 49 appears 0 times with symbol: 1 --> 10011001000011101101001110
+ASCII 50 appears 0 times with symbol: 2 --> 10011001000011101101001101
+ASCII 51 appears 0 times with symbol: 3 --> 10011001000011101101001100
+ASCII 52 appears 0 times with symbol: 4 --> 10011001000011101101001011
+ASCII 53 appears 0 times with symbol: 5 --> 10011001000011101101001010
+ASCII 54 appears 0 times with symbol: 6 --> 10011001000011101101001001
+ASCII 55 appears 0 times with symbol: 7 --> 10011001000011101101001000
+ASCII 56 appears 0 times with symbol: 8 --> 10011001000011101101000111
+ASCII 57 appears 0 times with symbol: 9 --> 10011001000011101101000110
+ASCII 58 appears 1120 times with symbol: : --> 001110111
+ASCII 59 appears 1623 times with symbol: ; --> 10101101
+ASCII 60 appears 0 times with symbol: < --> 10011001000011101101000101
+ASCII 61 appears 0 times with symbol: = --> 10011001000011101101000100
+ASCII 62 appears 0 times with symbol: > --> 10011001000011101101000011
+ASCII 63 appears 282 times with symbol: ? --> 01101011001
+ASCII 64 appears 0 times with symbol: @ --> 10011001000011101101000010
+ASCII 65 appears 394 times with symbol: A --> 00111001000
+ASCII 66 appears 223 times with symbol: B --> 10101100000
+ASCII 67 appears 655 times with symbol: C --> 0011100101
+ASCII 68 appears 418 times with symbol: D --> 1010110001
+ASCII 69 appears 593 times with symbol: E --> 0011101101
+ASCII 70 appears 181 times with symbol: F --> 001110110010
+ASCII 71 appears 200 times with symbol: G --> 10101100001
+ASCII 72 appears 2 times with symbol: H --> 10011001000011100
+ASCII 73 appears 551 times with symbol: I --> 0110101101
+ASCII 74 appears 0 times with symbol: J --> 10011001000011101101000001
+ASCII 75 appears 0 times with symbol: K --> 10011001000011101101000000
+ASCII 76 appears 413 times with symbol: L --> 1010110010
+ASCII 77 appears 411 times with symbol: M --> 1010110011
+ASCII 78 appears 261 times with symbol: N --> 10011000011
+ASCII 79 appears 363 times with symbol: O --> 00111001001
+ASCII 80 appears 541 times with symbol: P --> 1001100000
+ASCII 81 appears 328 times with symbol: Q --> 00111011000
+ASCII 82 appears 121 times with symbol: R --> 100110010001
+ASCII 83 appears 444 times with symbol: S --> 1001100101
+ASCII 84 appears 284 times with symbol: T --> 01101011000
+ASCII 85 appears 44 times with symbol: U --> 10011001000000
+ASCII 86 appears 271 times with symbol: V --> 10011000010
+ASCII 87 appears 0 times with symbol: W --> 10011001000011101100111111
+ASCII 88 appears 138 times with symbol: X --> 001110110011
+ASCII 89 appears 0 times with symbol: Y --> 10011001000011101100111110
+ASCII 90 appears 7 times with symbol: Z --> 1001100100000111
+ASCII 91 appears 0 times with symbol: [ --> 10011001000011101100111101
+ASCII 92 appears 0 times with symbol: \ --> 10011001000011101100111100
+ASCII 93 appears 0 times with symbol: ] --> 10011001000011101100111011
+ASCII 94 appears 0 times with symbol: ^ --> 10011001000011101100111010
+ASCII 95 appears 0 times with symbol: _ --> 10011001000011101100111001
+ASCII 96 appears 0 times with symbol: ` --> 10011001000011101100111000
+ASCII 97 appears 42242 times with symbol: a --> 0100
+ASCII 98 appears 2759 times with symbol: b --> 00111010
+ASCII 99 appears 20267 times with symbol: c --> 01100
+ASCII 100 appears 14634 times with symbol: d --> 10100
+ASCII 101 appears 46211 times with symbol: e --> 111
+ASCII 102 appears 4981 times with symbol: f --> 0110100
+ASCII 103 appears 7156 times with symbol: g --> 100111
+ASCII 104 appears 7112 times with symbol: h --> 101010
+ASCII 105 appears 39716 times with symbol: i --> 0101
+ASCII 106 appears 2 times with symbol: j --> 10011001000011001
+ASCII 107 appears 0 times with symbol: k --> 10011001000011101100110111
+ASCII 108 appears 23097 times with symbol: l --> 00100
+ASCII 109 appears 11681 times with symbol: m --> 11011
+ASCII 110 appears 26403 times with symbol: n --> 1011
+ASCII 111 appears 37493 times with symbol: o --> 0111
+ASCII 112 appears 10789 times with symbol: p --> 001111
+ASCII 113 appears 3025 times with symbol: q --> 00111000
+ASCII 114 appears 25942 times with symbol: r --> 1100
+ASCII 115 appears 22217 times with symbol: s --> 00110
+ASCII 116 appears 22614 times with symbol: t --> 00101
+ASCII 117 appears 13500 times with symbol: u --> 11010
+ASCII 118 appears 7944 times with symbol: v --> 100000
+ASCII 119 appears 0 times with symbol: w --> 10011001000011101100110110
+ASCII 120 appears 3 times with symbol: x --> 10011001000001100
+ASCII 121 appears 1 times with symbol: y --> 10011001000011111
+ASCII 122 appears 1849 times with symbol: z --> 10011010
+ASCII 123 appears 0 times with symbol: { --> 10011001000011101100110101
+ASCII 124 appears 0 times with symbol: | --> 10011001000011101100110100
+ASCII 125 appears 0 times with symbol: } --> 10011001000011101100110011
+ASCII 126 appears 1 times with symbol: ~ --> 10011001000011110
+ASCII 127 appears 0 times with symbol: not printable --> 10011001000011101100110010
+ASCII 128 appears 0 times with symbol: not printable --> 10011001000011101100110001
+ASCII 129 appears 0 times with symbol: not printable --> 10011001000011101100110000
+ASCII 130 appears 0 times with symbol: not printable --> 10011001000011101100101111
+ASCII 131 appears 0 times with symbol: not printable --> 10011001000011101100101110
+ASCII 132 appears 0 times with symbol: not printable --> 10011001000011101100101101
+ASCII 133 appears 0 times with symbol: not printable --> 10011001000011101100101100
+ASCII 134 appears 0 times with symbol: not printable --> 10011001000011101100101011
+ASCII 135 appears 0 times with symbol: not printable --> 10011001000011101100101010
+ASCII 136 appears 0 times with symbol: not printable --> 10011001000011101100101001
+ASCII 137 appears 0 times with symbol: not printable --> 10011001000011101100101000
+ASCII 138 appears 0 times with symbol: not printable --> 10011001000011101100100111
+ASCII 139 appears 0 times with symbol: not printable --> 10011001000011101100100110
+ASCII 140 appears 0 times with symbol: not printable --> 10011001000011101100100101
+ASCII 141 appears 0 times with symbol: not printable --> 10011001000011101100100100
+ASCII 142 appears 0 times with symbol: not printable --> 10011001000011101100100011
+ASCII 143 appears 0 times with symbol: not printable --> 10011001000011101100100010
+ASCII 144 appears 0 times with symbol: not printable --> 10011001000011101100100001
+ASCII 145 appears 0 times with symbol: not printable --> 10011001000011101100100000
+ASCII 146 appears 0 times with symbol: not printable --> 10011001000011101100011111
+ASCII 147 appears 0 times with symbol: not printable --> 10011001000011101100011110
+ASCII 148 appears 0 times with symbol: not printable --> 10011001000011101100011101
+ASCII 149 appears 0 times with symbol: not printable --> 10011001000011101100011100
+ASCII 150 appears 0 times with symbol: not printable --> 10011001000011101100011011
+ASCII 151 appears 0 times with symbol: not printable --> 10011001000011101100011010
+ASCII 152 appears 0 times with symbol: not printable --> 10011001000011101100011001
+ASCII 153 appears 0 times with symbol: not printable --> 10011001000011101100011000
+ASCII 154 appears 0 times with symbol: not printable --> 10011001000011101100010111
+ASCII 155 appears 0 times with symbol: not printable --> 10011001000011101100010110
+ASCII 156 appears 0 times with symbol: not printable --> 10011001000011101100010101
+ASCII 157 appears 0 times with symbol: not printable --> 10011001000011101100010100
+ASCII 158 appears 0 times with symbol: not printable --> 10011001000011101100010011
+ASCII 159 appears 0 times with symbol: not printable --> 10011001000011101100010010
+ASCII 160 appears 0 times with symbol: not printable --> 10011001000011101100010001
+ASCII 161 appears 0 times with symbol: not printable --> 10011001000011101100010000
+ASCII 162 appears 0 times with symbol: not printable --> 10011001000011101100001111
+ASCII 163 appears 0 times with symbol: not printable --> 10011001000011101100001110
+ASCII 164 appears 0 times with symbol: not printable --> 10011001000011101100001101
+ASCII 165 appears 0 times with symbol: not printable --> 10011001000011101100001100
+ASCII 166 appears 0 times with symbol: not printable --> 10011001000011101100001011
+ASCII 167 appears 0 times with symbol: not printable --> 10011001000011101100001010
+ASCII 168 appears 0 times with symbol: not printable --> 10011001000011101100001001
+ASCII 169 appears 0 times with symbol: not printable --> 10011001000011101100001000
+ASCII 170 appears 0 times with symbol: not printable --> 10011001000011101100000111
+ASCII 171 appears 0 times with symbol: not printable --> 10011001000011101100000110
+ASCII 172 appears 0 times with symbol: not printable --> 10011001000011101100000101
+ASCII 173 appears 0 times with symbol: not printable --> 10011001000011101100000100
+ASCII 174 appears 0 times with symbol: not printable --> 10011001000011101100000011
+ASCII 175 appears 0 times with symbol: not printable --> 10011001000011101100000010
+ASCII 176 appears 0 times with symbol: not printable --> 10011001000011101100000001
+ASCII 177 appears 0 times with symbol: not printable --> 10011001000011101100000000
+ASCII 178 appears 0 times with symbol: not printable --> 1001100100001110111111111
+ASCII 179 appears 0 times with symbol: not printable --> 1001100100001110111111110
+ASCII 180 appears 0 times with symbol: not printable --> 1001100100001110111111101
+ASCII 181 appears 0 times with symbol: not printable --> 1001100100001110111111100
+ASCII 182 appears 0 times with symbol: not printable --> 1001100100001110111111011
+ASCII 183 appears 0 times with symbol: not printable --> 1001100100001110111111010
+ASCII 184 appears 0 times with symbol: not printable --> 1001100100001110111111001
+ASCII 185 appears 0 times with symbol: not printable --> 1001100100001110111111000
+ASCII 186 appears 0 times with symbol: not printable --> 1001100100001110111110111
+ASCII 187 appears 0 times with symbol: not printable --> 1001100100001110111110110
+ASCII 188 appears 0 times with symbol: not printable --> 1001100100001110111110101
+ASCII 189 appears 0 times with symbol: not printable --> 1001100100001110111110100
+ASCII 190 appears 0 times with symbol: not printable --> 1001100100001110111110011
+ASCII 191 appears 0 times with symbol: not printable --> 1001100100001110111110010
+ASCII 192 appears 0 times with symbol: not printable --> 1001100100001110111110001
+ASCII 193 appears 0 times with symbol: not printable --> 1001100100001110111110000
+ASCII 194 appears 0 times with symbol: not printable --> 1001100100001110111101111
+ASCII 195 appears 0 times with symbol: not printable --> 1001100100001110111101110
+ASCII 196 appears 0 times with symbol: not printable --> 1001100100001110111101101
+ASCII 197 appears 0 times with symbol: not printable --> 1001100100001110111101100
+ASCII 198 appears 0 times with symbol: not printable --> 1001100100001110111101011
+ASCII 199 appears 0 times with symbol: not printable --> 1001100100001110111101010
+ASCII 200 appears 0 times with symbol: not printable --> 1001100100001110111101001
+ASCII 201 appears 0 times with symbol: not printable --> 1001100100001110111101000
+ASCII 202 appears 0 times with symbol: not printable --> 1001100100001110111100111
+ASCII 203 appears 0 times with symbol: not printable --> 1001100100001110111100110
+ASCII 204 appears 0 times with symbol: not printable --> 1001100100001110111100101
+ASCII 205 appears 0 times with symbol: not printable --> 1001100100001110111100100
+ASCII 206 appears 0 times with symbol: not printable --> 1001100100001110111100011
+ASCII 207 appears 0 times with symbol: not printable --> 1001100100001110111100010
+ASCII 208 appears 0 times with symbol: not printable --> 1001100100001110111100001
+ASCII 209 appears 0 times with symbol: not printable --> 1001100100001110111100000
+ASCII 210 appears 0 times with symbol: not printable --> 1001100100001110111011111
+ASCII 211 appears 0 times with symbol: not printable --> 1001100100001110111011110
+ASCII 212 appears 0 times with symbol: not printable --> 1001100100001110111011101
+ASCII 213 appears 0 times with symbol: not printable --> 1001100100001110111011100
+ASCII 214 appears 0 times with symbol: not printable --> 1001100100001110111011011
+ASCII 215 appears 0 times with symbol: not printable --> 1001100100001110111011010
+ASCII 216 appears 0 times with symbol: not printable --> 1001100100001110111011001
+ASCII 217 appears 0 times with symbol: not printable --> 1001100100001110111011000
+ASCII 218 appears 0 times with symbol: not printable --> 1001100100001110111010111
+ASCII 219 appears 0 times with symbol: not printable --> 1001100100001110111010110
+ASCII 220 appears 0 times with symbol: not printable --> 1001100100001110111010101
+ASCII 221 appears 0 times with symbol: not printable --> 1001100100001110111010100
+ASCII 222 appears 0 times with symbol: not printable --> 1001100100001110111010011
+ASCII 223 appears 0 times with symbol: not printable --> 1001100100001110111010010
+ASCII 224 appears 854 times with symbol: not printable --> 100110111
+ASCII 225 appears 0 times with symbol: not printable --> 1001100100001110111010001
+ASCII 226 appears 0 times with symbol: not printable --> 1001100100001110111010000
+ASCII 227 appears 0 times with symbol: not printable --> 1001100100001110111001111
+ASCII 228 appears 0 times with symbol: not printable --> 1001100100001110111001110
+ASCII 229 appears 0 times with symbol: not printable --> 1001100100001110111001101
+ASCII 230 appears 0 times with symbol: not printable --> 1001100100001110111001100
+ASCII 231 appears 0 times with symbol: not printable --> 1001100100001110111001011
+ASCII 232 appears 920 times with symbol: not printable --> 100110011
+ASCII 233 appears 909 times with symbol: not printable --> 100110110
+ASCII 234 appears 0 times with symbol: not printable --> 1001100100001110111001010
+ASCII 235 appears 0 times with symbol: not printable --> 1001100100001110111001001
+ASCII 236 appears 1386 times with symbol: not printable --> 001110011
+ASCII 237 appears 0 times with symbol: not printable --> 1001100100001110111001000
+ASCII 238 appears 0 times with symbol: not printable --> 1001100100001110111000111
+ASCII 239 appears 5 times with symbol: not printable --> 1001100100001101
+ASCII 240 appears 0 times with symbol: not printable --> 1001100100001110111000110
+ASCII 241 appears 0 times with symbol: not printable --> 1001100100001110111000101
+ASCII 242 appears 936 times with symbol: not printable --> 100110001
+ASCII 243 appears 29 times with symbol: not printable --> 10011001000010
+ASCII 244 appears 0 times with symbol: not printable --> 1001100100001110111000100
+ASCII 245 appears 0 times with symbol: not printable --> 1001100100001110111000011
+ASCII 246 appears 0 times with symbol: not printable --> 1001100100001110111000010
+ASCII 247 appears 0 times with symbol: not printable --> 1001100100001110111000001
+ASCII 248 appears 0 times with symbol: not printable --> 1001100100001110111000000
+ASCII 249 appears 1077 times with symbol: not printable --> 011010111
+ASCII 250 appears 0 times with symbol: not printable --> 1001100100001110110111111
+ASCII 251 appears 0 times with symbol: not printable --> 1001100100001110110111110
+ASCII 252 appears 0 times with symbol: not printable --> 1001100100001110110111101
+ASCII 253 appears 0 times with symbol: not printable --> 1001100100001110110111100
+ASCII 254 appears 0 times with symbol: not printable --> 1001100100001110110111011
+ASCII 255 appears 0 times with symbol: not printable --> 1001100100001110110111010
