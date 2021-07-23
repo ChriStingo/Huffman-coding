@@ -13,7 +13,7 @@ Huffman coding made in June 2020 by:
 >
 >This file compile and execute the program.
 >
->Once launched, you will be prompted to enter the name of the file previously entered in the Input folder (only the file name, do not enter information relating to the path)
+>Once launched, will be prompted to enter the name of the file previously inserted in the Input folder (only the file name, do not enter information relating to the path)
 
 This executable will insert the encoded file and a Legend in the Output folder, to allow a simple translation. It will also print on the terminal some information to check how good the encode was.
 
